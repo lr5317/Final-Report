@@ -10,3 +10,17 @@ Note that the report should include in-line code and output, allowing for reprod
 * Analysis & Results
 * Discussion
 * Conclusion
+
+## Final Presentation Schedule
+
+* **Day 1 (Tuesday, 12/3)**:
+	1. Alamos & Ganesh
+	2. Reich & Parker
+	3. Cao, Pacheco, Shen, & Shi
+	4. Arroyo, Kim, Tong, & Pandian
+
+* **Day 2 (Thursday, 12/5)**:
+	1. Collins & Tyagie
+	2. Glazer & Jensen
+	3. Liu, Pandit, & Shelton
+	4. He, Lau, & Tang
